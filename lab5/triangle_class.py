@@ -23,3 +23,7 @@ class Triangle:
     def perimeter(self) -> float:
         """Возвращает периметр треугольника."""
         return self.a + self.b + self.c
+    
+
+
+    

@@ -44,3 +44,7 @@ class TestTriangleClass:
     def test_non_numeric(self):
         with pytest.raises(IncorrectTriangleSides):
             Triangle("a", 4, 5)
+
+
+
+            

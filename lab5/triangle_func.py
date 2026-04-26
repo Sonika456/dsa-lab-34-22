@@ -28,3 +28,6 @@ def get_triangle_type(a: float, b: float, c: float) -> str:
         return "isosceles"
     else:
         return "nonequilateral"
+    
+
+    
